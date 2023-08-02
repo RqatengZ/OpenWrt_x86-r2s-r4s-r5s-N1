@@ -63,6 +63,10 @@ X86/64, 友善 NanoPi、R2S、R4S、R4SE、R5S、R2C、R5C、R6S、NEO3, 斐讯 
 ### 2.3 **GitHub结合浏览器插件编译**
 请在支持油猴的浏览器中安装 [脚本](https://greasyfork.org/scripts/407616-github-actions-trigger/code/Github%20Actions%20Trigger.user.js) ,仓库右上角会出现 x86_64 Actions,K2P Actions等按钮,点击对应按钮即可.更多玩法 [repo-dispatcher](https://github.com/tete1030/github-repo-dispatcher)
 
+### 2.4 **GitHub Actions 在线云编译 OpenWrt 固件**
+[地址](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+
+
 ## 3. **使用**
 
 ### 3.1 **后台**
